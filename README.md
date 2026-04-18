@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/harinese"><img src="https://img.shields.io/badge/GitHub-harinese-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Status-Focusing-00C2FF?style=for-the-badge&logo=target" alt="Status: Focusing" aria-hidden="true">
+  <img src="https://img.shields.io/badge/Status-Focusing-00C2FF?style=for-the-badge&logo=target" alt="Status: Focusing">
 </p>
 
 ---
