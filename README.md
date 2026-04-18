@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/harinese"><img src="https://img.shields.io/badge/GitHub-harinese-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Status-Focusing-00C2FF?style=for-the-badge&logo=target" alt="Status: Focusing">
+  <img src="https://img.shields.io/badge/Status-Focusing-00C2FF?style=for-the-badge&logo=target" alt="Status: Focusing" aria-hidden="true">
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ### 🚀 Featured Projects
 - 🧠 [CORA](https://github.com/harinese/CORA) — AI Diabetes prediction model
-- 🌾 [AgriLens](https://github.com/harinese/AgriLens) — JavaScript project
+- 🌾 [AgriLens](https://github.com/harinese/AgriLens) — Agri-focused JavaScript web project
 - 🧪 [GenAI-Cohort1](https://github.com/harinese/GenAI-Cohort1) — Python experiments
 - 🌐 [Portfolio](https://github.com/harinese/Portfolio) — Personal portfolio
 
